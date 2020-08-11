@@ -7,7 +7,7 @@ NOTE : This notebook includes a Plotly plot at the very end. Plotly plots are no
 
 Screenshot :
 ![Screenshot (264)](https://user-images.githubusercontent.com/49288068/89455248-9e9b0780-d77f-11ea-94db-014d782ba542.png)
-___________________________________________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________________________________________
 
 Notebook 2 : Principal Component Analysis(PCA) from scratch
 
@@ -26,4 +26,15 @@ Eigen vectors :
 Transformed :
 
 ![Screenshot (268)](https://user-images.githubusercontent.com/49288068/89693473-2887d380-d92c-11ea-95a2-b60ea7def8fb.png)
-___________________________________________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________________________________________
+
+Notebook 3 : Linear Discriminant Analysis(LDA) from scratch
+
+Dataset : [BankNote Authentication](https://www.kaggle.com/ritesaluja/bank-note-authentication-uci-data)
+
+About the dataset : Data were extracted from images that were taken from genuine and forged banknote-like specimens. For digitization, an industrial camera usually used for print inspection was used. The final images have 400x 400 pixels. Due to the object lens and distance to the investigated object gray-scale pictures with a resolution of about 660 dpi were gained. Wavelet Transform tool were used to extract features from images.
+
+Dimensionality reduction --> 4D data to 2D data.
+
+Upcoming updates : LDA class.
+________________________________________________________________________________________________________________________________________________________________________________
