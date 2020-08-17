@@ -38,3 +38,11 @@ Dimensionality reduction --> 4D data to 2D data.
 
 Upcoming updates : LDA class.
 ________________________________________________________________________________________________________________________________________________________________________________
+
+Notebook 4 : Apriori for Association Rule Mining (ARM)
+
+Dataset : Groceries Dataset
+
+Applying apriori algorithm to find association rules for recommending supermarket items based on history of purchase per transaction.
+
+View the [Kaggle Notebook](https://www.kaggle.com/balaka18/apriori-for-arm-association-rule-mining) and upvote if it helps you :)
